@@ -104,8 +104,8 @@ li::before {
     content: '';
     position: absolute;
     left: 0;
-    width: 20px;
-    height: 20px;
+    width: 1.25rem;
+    height: 1.25rem;
     background-image: url('./assets/images/icon-list.svg');
     background-size: contain;
     background-repeat: no-repeat;
@@ -234,7 +234,7 @@ li::before {
 
     .newsletter{
         max-width: 50rem;
-        max-height: auto;
+        max-height: none;
         flex-direction: row-reverse;
         border-radius: 1.5rem;
     }
