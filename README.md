@@ -35,7 +35,7 @@ Los usuarios deben poder:
 ### Enlaces
 
 - [URL del repositorio en GitHub](https://github.com/amateusouto/Newsletter-sign-up-challenge-from-FrontEnd-Mentor)
-- [URL de la demo en vivo](https://tu-usuario.github.io/tu-repositorio/)
+- [URL de la demo en vivo](https://newsletter-sign-up-challenge-from-f.vercel.app)
 
 ---
 
@@ -60,5 +60,5 @@ En este desafío he profundizado en:
 
 ## Autor
 
-- Frontend Mentor - [@TuUsuario](https://www.frontendmentor.io/profile/amateusouto)
-- GitHub - [@TuUsuario](https://github.com/amateusouto)
+- Frontend Mentor - [Alberto Mateu Souto](https://www.frontendmentor.io/profile/amateusouto)
+- GitHub - [amateusouto](https://github.com/amateusouto)
