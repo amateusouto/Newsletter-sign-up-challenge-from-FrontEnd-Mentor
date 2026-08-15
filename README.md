@@ -30,11 +30,11 @@ Los usuarios deben poder:
 
 ### Captura de pantalla
 
-![Captura de pantalla del proyecto](./design/newsletter-sign-up.webp)
+![Captura de pantalla del proyecto](./assets/images/newsletter-sign-up.webp)
 
 ### Enlaces
 
-- [URL del repositorio en GitHub](https://github.com/tu-usuario/tu-repositorio)
+- [URL del repositorio en GitHub](https://github.com/amateusouto/Newsletter-sign-up-challenge-from-FrontEnd-Mentor)
 - [URL de la demo en vivo](https://tu-usuario.github.io/tu-repositorio/)
 
 ---
