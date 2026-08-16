@@ -17,7 +17,7 @@
       <picture>
         <source media="(min-width: 64rem)" srcset="./assets/images/illustration-sign-up-desktop.svg">
         <source media="(min-width: 48rem)" srcset="./assets/images/illustration-sign-up-tablet.svg">
-        <img src="./assets/images/illustration-sign-up-mobile.svg" alt="Ilustración decorativa del formulario de registro">>
+        <img src="./assets/images/illustration-sign-up-mobile.svg" alt="">
       </picture>
       <div class="content">
         <h1>Stay updated!</h1>
@@ -27,12 +27,12 @@
           <li>Measuring to ensure updates are a success</li>
           <li>And much more!</li>
         </ul>
-        <form class="nl-form novalidate">
+        <form class="nl-form" novalidate>
           <div class="nl-form-header">
             <label for="email" class="nl-form-label">Email address</label>
-            <span id="error" class="error-message">Valid email required</span>
+            <span class="error-message">Valid email required</span>
           </div>
-          <input type="email" class="nl-form-input" id="email" placeholder="email@gmail.com">
+          <input type="email" class="nl-form-input" id="email" required placeholder="email@gmail.com" >
           <button type="submit" class="nl-form-button" id="submit">Subscribe to monthly newsletter</button>
         </form>
       </div>
@@ -40,7 +40,7 @@
 
     <section class="success">
       <div class="success-content">
-        <img src="./assets/images/icon-success.svg" alt="verificación de éxito">
+        <img src="./assets/images/icon-success.svg" alt="">
         <h1>Thanks for subscribing!</h1>
         <p>A confirmation email has been sent to <strong>ash@loremcompany.com.</strong> 
         Please open it and click the button inside to confirm your subscription.</p>
@@ -51,7 +51,7 @@
 
   <footer class="attribution">
     Challenge by <a href="https://www.frontendmentor.io?ref=challenge">Frontend Mentor</a>. 
-    Coded by <a href="#">Your Name Here</a>.
+    Coded by <a href="https://github.com/amateusouto">Alberto Mateu Souto</a>.
   </footer>
 </body>
 </html>
